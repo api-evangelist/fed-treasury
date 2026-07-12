@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://fiscaldata.treasury.gov/api-documentation/
 common:
+  - type: DomainSecurity
+    url: security/fed-treasury-domain-security.yml
   - type: Website
     url: https://fiscaldata.treasury.gov/api-documentation/
   - type: PublicAPIsListing

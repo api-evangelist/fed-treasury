@@ -39,7 +39,6 @@ apis:
   - name: Fed Treasury
     description: "U.S. Department of the Treasury Data"
     humanURL: https://fiscaldata.treasury.gov/api-documentation/
-    baseURL: https://fiscaldata.treasury.gov/api-documentation/
     tags:
       - Finance
     properties:
